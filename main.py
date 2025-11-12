@@ -5,7 +5,7 @@ import os
 import sqlite3
 
 # this is local mcp server 
-
+# hello
 # making own server and client
 # Simply client is cluade desktop and server fastmcp this code, when can simplytell to claude to add something other.
 
